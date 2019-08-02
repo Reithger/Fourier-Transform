@@ -1,0 +1,2 @@
+# Fourier Transform
+ For a third year Digital Electronic and Signals Processing course, the final assignment was to implement the Fourier Transform (not the Fast Fourier Transform) and use it on an audio file to figure out what notes were being played. It was a lot of fun to do! There were some intricacies along the way (it's weird using the frequency as your index? I think that was a thing? It's been a while.) but it was neat to apply Object Oriented Design to a cross-listed Comp/Physics course where proficient coding ability was not assumed.
